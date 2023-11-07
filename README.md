@@ -34,7 +34,7 @@ Ini Tampilan Hasil Outputnya
 
 * Latihan 2
 
-<img src="ss/sslat1.png" width="500">
+<img src="ss/sslat2.png" width="500">
 
 **Meminta Input**
 
@@ -57,6 +57,10 @@ Menggunakan fungsi sorted() untuk mengurutkan data dalam bentuk list yang terben
         print(item)
 
 Program kemudian menampilkan hasil pengurutan dalam urutan dari terkecil ke terbesar menggunakan loop for.
+
+Ini Tampilan Hasil Outputnya
+
+<img src="ss/hasillat2.png" width="500">
 
 * Lab 3 Latihan 1
 
