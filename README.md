@@ -64,7 +64,7 @@ Ini Tampilan Hasil Outputnya
 
 * Lab 3 Latihan 1
 
-<img src="ss/sslat1.png" width="500">
+<img src="ss/sslab3lat1.png" width="500">
 
 **Meminta Input Pola**
 
@@ -89,6 +89,10 @@ Perulangan kedua digunakan untuk mengontrol kolom pada setiap baris pola. Nilai 
     print(i + j, end=" ")
 
 Pernyataan ini mencetak jumlah i dan j pada setiap posisi dalam pola. Penggunaan end=" " digunakan agar setiap angka dicetak dalam satu baris.
+
+Ini Tampilan Hasil Outputnya
+
+<img src="ss/hasillab3lat1.png" width="500">
 
 * Lab 3 Latihan 2
 
