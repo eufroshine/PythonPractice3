@@ -96,6 +96,33 @@ Ini Tampilan Hasil Outputnya
 
 * Lab 3 Latihan 2
 
-<img src="ss/sslat1.png" width="500">
+<img src="ss/sslab3lat2.png" width="500">
 
-**
+**Import Modul random**
+
+    from random import random
+
+Menggunakan pernyataan from ... import ... untuk mengimpor fungsi random dari modul random.
+Modul random digunakan untuk menghasilkan bilangan acak.
+
+**Minta Jumlah Perulangan dari Pengguna**
+
+    n = int(input("Masukkan jumlah perulangan: "))
+
+Menggunakan fungsi input untuk meminta pengguna memasukkan jumlah perulangan.
+Menggunakan fungsi int untuk mengonversi input pengguna ke tipe data integer.
+
+**Loop untuk Menghasilkan Bilangan Acak dan Mencetaknya**
+
+    for i in range(n):
+        num = random() % 0.5
+        print(num)
+
+Menggunakan loop for untuk melakukan iterasi sebanyak n kali.
+Pada setiap iterasi, menggunakan fungsi random() dari modul random untuk menghasilkan bilangan acak antara 0 dan 1.
+Menggunakan operator modulo (%) untuk mendapatkan nilai sisa pembagian hasil random() dengan 0.5. Hal ini akan menghasilkan bilangan acak antara 0 dan 0.5.
+Mencetak bilangan acak yang dihasilkan.
+
+Ini Tampilan Hasil Outputnya
+
+<img src="ss/hasillab3lat2.png" width="500">
