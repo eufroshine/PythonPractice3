@@ -155,7 +155,7 @@ Menggunakan float untuk mengonversi input pengguna ke tipe data float agar bisa 
 Menggunakan struktur kontrol if-elif-else untuk membandingkan ketiga bilangan.
 Jika bilangan1 lebih besar dari atau sama dengan bilangan2 dan bilangan3, maka bilangan_terbesar diatur sebagai bilangan1.
 Jika tidak, program memeriksa apakah bilangan2 lebih besar dari atau sama dengan bilangan1 dan bilangan3. Jika ya, maka bilangan_terbesar diatur sebagai bilangan2.
-Jika kedua kondisi di atas tidak terpenuhi, berarti bilangan3 adalah yang terbesar, dan bilangan_terbesar diatur sebagai bilangan3.
+Jika kedua kondisi di atas tidak terpenuhi, berarti bilangan3 adalah yang terbesar, dan bilangan_terbesar diatur sebagai bilangan3
 
 **Tampilkan Hasil**
 
