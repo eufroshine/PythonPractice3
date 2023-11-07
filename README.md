@@ -28,6 +28,9 @@ Dalam blok ini, kita menggunakan statement if untuk membandingkan bilangan1 dan 
 
 Program kemudian menampilkan hasilnya dengan menggunakan fungsi print. Kita menggunakan f-string untuk menyisipkan nilai dari variabel bilangan_terbesar ke dalam string.
 
+Ini Tampilan Hasil Outputnya
+
+<img src="ss/sslat1.png" width="500">
 * Latihan 2
 
 <img src="ss/sslat1.png" width="500">
