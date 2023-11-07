@@ -31,6 +31,7 @@ Program kemudian menampilkan hasilnya dengan menggunakan fungsi print. Kita meng
 Ini Tampilan Hasil Outputnya
 
 <img src="ss/hasillat1.png width="500">
+
 * Latihan 2
 
 <img src="ss/sslat1.png" width="500">
